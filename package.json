@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "workspaces": [
+        "mendeleev",
+        "mendeleev-master",
+        "mendeleev-stringify"
+    ],
+    "name": "cwp-23",
+    "version": "1.0.0",
+    "description": "cwp-23",
+    "main": "mendeleev/index.js",
+    "repository": "https://github.com/andreichayeuski/cwp-23.git",
+    "author": "Andrei Chayeuski <andreichayeuski@gmail.com>",
+    "license": "MIT"
+}
